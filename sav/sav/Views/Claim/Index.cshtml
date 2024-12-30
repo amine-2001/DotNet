@@ -1,0 +1,36 @@
+﻿@model IEnumerable<sav.Models.Claim>
+
+<h2>Mes Réclamations</h2>
+
+<div class="mb-3">
+    <a asp-action="Create" class="btn btn-primary">Ajouter une Réclamation</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Client</th>
+            <th>Article</th>
+            <th>Description</th>
+            <th>Statut</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.Client.Name</td>
+                <td>@claim.Article.Name</td>
+                <td>@claim.Description</td>
+                <td>@claim.Status</td>
+                <td>@claim.Date.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@claim.ClaimId" class="btn btn-warning btn-sm">Modifier</a>
+                    <a asp-action="Delete" asp-route-id="@claim.ClaimId" class="btn btn-danger btn-sm">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+﻿@model sav.Models.TechnicalIntervention
+
+@{
+    ViewData["Title"] = "Supprimer une intervention technique";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="alert alert-warning" role="alert">
+    Êtes-vous sûr de vouloir supprimer cette intervention ?
+</div>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Model.TechnicalInterventionId</dd>
+
+        <dt class="col-sm-2">Réclamation</dt>
+        <dd class="col-sm-10">@Model.Claim.Description</dd>
+
+        <dt class="col-sm-2">Date</dt>
+        <dd class="col-sm-10">@Model.InterventionDate.ToString("yyyy-MM-dd")</dd>
+
+        <dt class="col-sm-2">Total</dt>
+        <dd class="col-sm-10">@Model.TotalCost €</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="TechnicalInterventionId" />
+    <button type="submit" class="btn btn-danger">Supprimer</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+</form>

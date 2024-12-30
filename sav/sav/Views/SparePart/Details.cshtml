@@ -1,0 +1,37 @@
+﻿@model IEnumerable<sav.Models.SparePart>
+
+@{
+    ViewData["Title"] = "Spare Parts List";
+}
+
+<h2>Spare Parts List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Spare Part</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.SparePartId" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@item.SparePartId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.SparePartId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

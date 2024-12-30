@@ -1,0 +1,35 @@
+﻿@model IEnumerable<sav.Models.Client>
+
+@{
+    ViewData["Title"] = "Liste des Clients";
+}
+
+<h2>Liste des Clients</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Email</th>
+            <th>Téléphone</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.Name</td>
+                <td>@client.Email</td>
+                <td>@client.PhoneNumber</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@client.ClientId" class="btn btn-info">Détails</a>
+                    <a asp-action="Edit" asp-route-id="@client.ClientId" class="btn btn-warning">Modifier</a>
+                    <a asp-action="Delete" asp-route-id="@client.ClientId" class="btn btn-danger">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Ajouter un nouveau client</a>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<sav.Models.Article>
+
+@{
+    ViewData["Title"] = "Article";
+}
+
+<h2>Articles</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Create New Article</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Stock Quantity</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var article in Model)
+        {
+            <tr>
+                <td>@article.Name</td>
+                <td>@article.Category</td>
+                <td>@article.Price</td>
+                <td>@article.StockQuantity</td>
+                <td>
+                    @if (article.IsUnderWarranty)
+                    {
+                        <span class="badge bg-success">Under Warranty</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Out of Warranty</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@article.ArticleId" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@article.ArticleId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@article.ArticleId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

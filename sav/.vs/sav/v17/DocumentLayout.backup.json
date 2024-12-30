@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\sav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\technicalintervention\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\technicalintervention\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\technicalintervention\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\technicalintervention\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\claim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\claim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\repository\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\repository\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\sparepart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\sparepart\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\sparepart\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\sparepart\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\sparepart\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\repository\\sparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\repository\\sparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\repository\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\repository\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|c:\\users\\msi\\source\\repos\\sav\\sav\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38A38-0D28-46DC-9D97-94A2AF7B02EF}|sav\\sav.csproj|solutionrelative:sav\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sav\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sav\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:31:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sav\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T16:19:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Program.cs",
+              "RelativeDocumentMoniker": "sav\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Program.cs",
+              "RelativeToolTip": "sav\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:18:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "sav\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Models\\Article.cs",
+              "RelativeToolTip": "sav\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:47:43.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "RelativeToolTip": "sav\\Views\\TechnicalIntervention\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:25:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "RelativeToolTip": "sav\\Views\\TechnicalIntervention\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:24:22.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Index.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\TechnicalIntervention\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Index.cshtml",
+              "RelativeToolTip": "sav\\Views\\TechnicalIntervention\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:23:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Create.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\TechnicalIntervention\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\TechnicalIntervention\\Create.cshtml",
+              "RelativeToolTip": "sav\\Views\\TechnicalIntervention\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:22:43.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "sav\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Models\\Client.cs",
+              "RelativeToolTip": "sav\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:22:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "sav\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T18:37:45.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "sav\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "sav\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:53:49.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Claim\\Details.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Claim\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Claim\\Details.cshtml",
+              "RelativeToolTip": "sav\\Views\\Claim\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T22:15:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Details.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Details.cshtml",
+              "RelativeToolTip": "sav\\Views\\Client\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:16:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Create.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Client\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Create.cshtml",
+              "RelativeToolTip": "sav\\Views\\Client\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:19:32.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Edit.cshtml",
+              "RelativeToolTip": "sav\\Views\\Client\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:22:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Delete.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Client\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Delete.cshtml",
+              "RelativeToolTip": "sav\\Views\\Client\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:23:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "sav\\Repository\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\IClientRepository.cs",
+              "RelativeToolTip": "sav\\Repository\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:56:53.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "sav\\Views\\Client\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:13:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Details.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\SparePart\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Details.cshtml",
+              "RelativeToolTip": "sav\\Views\\SparePart\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:17:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\SparePart\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Edit.cshtml",
+              "RelativeToolTip": "sav\\Views\\SparePart\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:15:05.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Create.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\SparePart\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Create.cshtml",
+              "RelativeToolTip": "sav\\Views\\SparePart\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:14:17.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Index.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\SparePart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Index.cshtml",
+              "RelativeToolTip": "sav\\Views\\SparePart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:13:32.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SparePartController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\SparePartController.cs",
+              "RelativeDocumentMoniker": "sav\\Controllers\\SparePartController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\SparePartController.cs",
+              "RelativeToolTip": "sav\\Controllers\\SparePartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:11:45.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SparePartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\SparePartRepository.cs",
+              "RelativeDocumentMoniker": "sav\\Repository\\SparePartRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\SparePartRepository.cs",
+              "RelativeToolTip": "sav\\Repository\\SparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:07:39.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Delete.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\SparePart\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\SparePart\\Delete.cshtml",
+              "RelativeToolTip": "sav\\Views\\SparePart\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:18:14.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISparePartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\ISparePartRepository.cs",
+              "RelativeDocumentMoniker": "sav\\Repository\\ISparePartRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\ISparePartRepository.cs",
+              "RelativeToolTip": "sav\\Repository\\ISparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:05:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Article\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "sav\\Views\\Article\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:04:59.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "sav\\Views\\Article\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:03:32.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "sav\\Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:04:02.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "sav\\Views\\Article\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:02:10.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "sav\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "sav\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAG0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:59:23.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "sav\\Repository\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "sav\\Repository\\ArticleRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:55:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "sav\\Views\\Article\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "sav\\Views\\Article\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:06:13.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "sav\\Repository\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\sav\\sav\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "sav\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:53:55.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

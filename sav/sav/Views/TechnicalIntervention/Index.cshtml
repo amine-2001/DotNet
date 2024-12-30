@@ -1,0 +1,36 @@
+﻿@model IEnumerable<sav.Models.TechnicalIntervention>
+
+<h2>Liste des Interventions Techniques</h2>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Ajouter une Intervention</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Réclamation</th>
+            <th>Date d'Intervention</th>
+            <th>Garantie</th>
+            <th>Coût Main-d'Œuvre</th>
+            <th>Coût Total</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var intervention in Model)
+        {
+            <tr>
+                <td>@intervention.Claim.Description</td>
+                <td>@intervention.InterventionDate.ToShortDateString()</td>
+                <td>@(intervention.IsWarranty ? "Oui" : "Non")</td>
+                <td>@intervention.LaborCost</td>
+                <td>@intervention.TotalCost</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@intervention.TechnicalInterventionId">Modifier</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@intervention.TechnicalInterventionId">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

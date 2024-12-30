@@ -1,0 +1,31 @@
+﻿@model sav.Models.Article
+
+@{
+    ViewData["Title"] = "Article Details";
+}
+
+<h2>Article Details</h2>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><strong>Category:</strong> @Model.Category</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+    <p><strong>Price:</strong> @Model.Price</p>
+    <p><strong>Stock Quantity:</strong> @Model.StockQuantity</p>
+    <p>
+        <strong>Status:</strong>
+        @if (Model.IsUnderWarranty)
+        {
+            <span class="badge bg-success">Under Warranty</span>
+        }
+        else
+        {
+            <span class="badge bg-danger">Out of Warranty</span>
+        }
+    </p>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ArticleId" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
